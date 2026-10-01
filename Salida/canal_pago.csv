@@ -1,0 +1,51 @@
+﻿tabla_origen,id_cliente,nombre_completo,documento_identidad,correo_electronico,telefono,direccion,fecha_registro,id_producto,sku_codigo,nombre_producto,categoria,marca,precio_unitario,stock_disponible,id_pedido,fecha_pedido,canal_venta,metodo_pago,estado_pedido,monto_total,id_detalle,cantidad,descuento_aplicado,id_envio,empresa_transporte,codigo_rastreo,direccion_entrega,fecha_despacho,fecha_entrega,id_pago,pasarela,tipo_tarjeta,monto_procesado,codigo_respuesta
+raw_canal_pago,,,,,,,,,,,,,,,PED00020,,,,,,,,,,,,,,,PAY00001,PayU,Visa,3881629.3,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00011,,,,,,,,,,,,,,,PAY00002,Mercado Pago,Visa,1538419.55,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00057,,,,,,,,,,,,,,,PAY00003,MercadoPago,PSE,2973408.77,05
+raw_canal_pago,,,,,,,,,,,,,,,PED00021,,,,,,,,,,,,,,,PAY00004,Wompi,,1123498.98,51
+raw_canal_pago,,,,,,,,,,,,,,,PED00044,,,,,,,,,,,,,,,PAY00005,PayU,American Express,2052748.28,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00043,,,,,,,,,,,,,,,PAY00006,PayU,American Express,328792.55,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00078,,,,,,,,,,,,,,,PAY00007,Wompi,Visa,2626175.0,05
+raw_canal_pago,,,,,,,,,,,,,,,PED00019,,,,,,,,,,,,,,,PAY00008,Wompi,,3718442.75,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00077,,,,,,,,,,,,,,,PAY00009,PayU,American Express,2141060.34,05
+raw_canal_pago,,,,,,,,,,,,,,,PED00049,,,,,,,,,,,,,,,PAY00010,Wompi,Mastercard,1948305.13,05
+raw_canal_pago,,,,,,,,,,,,,,,PED00012,,,,,,,,,,,,,,,PAY00010,PayU,PSE,1955773.22,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00003,,,,,,,,,,,,,,,PAY00012,Mercado Pago,Mastercard,1119663.12,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00063,,,,,,,,,,,,,,,PAY00013,Mercado Pago,Mastercard,616415.44,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00038,,,,,,,,,,,,,,,PAY00014,PayU,PSE,2541063.75,05
+raw_canal_pago,,,,,,,,,,,,,,,PED00068,,,,,,,,,,,,,,,PAY00015,Wompi,PSE,217829.39,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00077,,,,,,,,,,,,,,,PAY00016,Mercado Pago,Mastercard,1161323.62,05
+raw_canal_pago,,,,,,,,,,,,,,,PED00022,,,,,,,,,,,,,,,PAY00017,PayU,,2177489.84,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00031,,,,,,,,,,,,,,,PAY00018,MercadoPago,American Express,2910286.38,51
+raw_canal_pago,,,,,,,,,,,,,,,PED00030,,,,,,,,,,,,,,,PAY00019,Wompi,,1625332.89,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00048,,,,,,,,,,,,,,,PAY00020,MercadoPago,,2051005.13,51
+raw_canal_pago,,,,,,,,,,,,,,,PED00037,,,,,,,,,,,,,,,PAY00021,MercadoPago,PSE,2345465.91,51
+raw_canal_pago,,,,,,,,,,,,,,,PED00021,,,,,,,,,,,,,,,PAY00022,MercadoPago,Mastercard,3320769.37,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00007,,,,,,,,,,,,,,,PAY00023,Wompi,PSE,1941478.16,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00067,,,,,,,,,,,,,,,PAY00024,Wompi,Visa,2560939.84,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00035,,,,,,,,,,,,,,,PAY00025,MercadoPago,Mastercard,1375491.7,51
+raw_canal_pago,,,,,,,,,,,,,,,PED00012,,,,,,,,,,,,,,,PAY00025,Mercado Pago,,2841919.13,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00004,,,,,,,,,,,,,,,PAY00027,PayU,PSE,1273945.87,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00031,,,,,,,,,,,,,,,PAY00028,PayU,American Express,1189190.05,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00004,,,,,,,,,,,,,,,PAY00029,PayU,American Express,1336662.51,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00018,,,,,,,,,,,,,,,PAY00030,PayU,Mastercard,162994.41,51
+raw_canal_pago,,,,,,,,,,,,,,,PED00058,,,,,,,,,,,,,,,PAY00031,PayU,Visa,1865277.36,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00028,,,,,,,,,,,,,,,PAY00032,MercadoPago,PSE,2513141.14,05
+raw_canal_pago,,,,,,,,,,,,,,,PED00055,,,,,,,,,,,,,,,PAY00033,Wompi,Mastercard,378001.24,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00016,,,,,,,,,,,,,,,PAY00034,PayU,PSE,190860.87,51
+raw_canal_pago,,,,,,,,,,,,,,,PED00009,,,,,,,,,,,,,,,PAY00035,PayU,PSE,377030.79,05
+raw_canal_pago,,,,,,,,,,,,,,,PED00003,,,,,,,,,,,,,,,PAY00036,MercadoPago,Mastercard,2584260.56,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00038,,,,,,,,,,,,,,,PAY00037,MercadoPago,American Express,1316254.73,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00074,,,,,,,,,,,,,,,PAY00038,PayU,PSE,1278874.41,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00009,,,,,,,,,,,,,,,PAY00038,MercadoPago,PSE,2862540.85,05
+raw_canal_pago,,,,,,,,,,,,,,,PED00071,,,,,,,,,,,,,,,PAY00040,PayU,Visa,109986.2,51
+raw_canal_pago,,,,,,,,,,,,,,,PED00048,,,,,,,,,,,,,,,PAY00041,PayU,American Express,798268.27,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00045,,,,,,,,,,,,,,,PAY00042,PayU,PSE,761321.48,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00018,,,,,,,,,,,,,,,PAY00043,MercadoPago,American Express,244066.88,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00060,,,,,,,,,,,,,,,PAY00044,PayU,Mastercard,2943416.6,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00009,,,,,,,,,,,,,,,PAY00045,PayU,Visa,2162332.92,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00026,,,,,,,,,,,,,,,PAY00046,Mercado Pago,Visa,179228.51,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00040,,,,,,,,,,,,,,,PAY00047,MercadoPago,,1570381.59,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00005,,,,,,,,,,,,,,,PAY00048,Mercado Pago,American Express,2272208.21,APPROVED
+raw_canal_pago,,,,,,,,,,,,,,,PED00007,,,,,,,,,,,,,,,PAY00049,Wompi,American Express,2604104.92,00
+raw_canal_pago,,,,,,,,,,,,,,,PED00048,,,,,,,,,,,,,,,PAY00050,PayU,,1807658.88,51
