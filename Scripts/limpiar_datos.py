@@ -1,6 +1,6 @@
 import pandas as pd
 
-archivo = "Datos/ecommerce_datos_crudos_sucios_400_filas.csv"
+archivo = "Datos/ecommerce_datos_crudos_sucios_400_filas-1.csv"
 
 df = pd.read_csv(archivo)
 
