@@ -1,0 +1,61 @@
+﻿id_cliente,nombre_completo,documento_identidad,correo_electronico,telefono,direccion,fecha_registro
+C0001,Nicolás V@rgas,1000000000.0,,3001000000,"Calle 4 # 36-32, Bogotá",2025-01-01
+C0002,Carlos Rodríguez,1000017321.0,carlos.rodríguez@gmail.com,3001000791,"Calle 87 # 70-12, Pereira",
+C0003,Daniel Bermúdez,1000034642.0,daniel.bermúdez@gmail.com,3001001582,"Calle 4 # 12-28, Bogotá",
+C0004,Sebastián Torres,1000051963.0,sebastián.torres@gmail.com,3001002373,"Calle 72 # 26-92, Armenia",
+C0005,Ana María Díaz,1000069284.0,ana.maría.díaz@gmail.com,031003164,"Calle 29 # 58-76, Medellín",2025-01-21
+C0006,Juan Pérez,1000086605.0,juan.pérez@gmail.com,3001003955,"Calle 90 # 55-44, Medellín",
+C0007,Carlos Rodríguez,1000103926.0,carlos.rodríguez@gmail.com,3001004746,"Calle 44 # 14-12, Cali",
+C0008,María Gómez,1000121247.0,maría.gómez@gmail.com,3001005537,"Calle 45 # 78-34, Manizales",
+C0009,Ana María Díaz,1000138568.0,ana.maría.díaz@gmail.com,031006328,"Calle 69 # 16-49, Manizales",2025-02-10
+C0010,Sebastián Torres,1000155889.0,,3001007119,"Calle 81 # 80-47, Pereira",
+C0011,Laura Martínez,1000173210.0,laura.martínez@gmail.com,3001007910,"Calle 6 # 30-99, Medellín",
+C0012,María Gómez,1000190531.0,,3001008701,"Calle 13 # 49-36, Cali",
+C0013,Nicolás Vargas,1000207852.0,nicolás.vargas@gmail.com,3001009492,"Calle 21 # 48-46, Bogotá",2025-03-02
+C0014,Nicolás V@rgas,1000225173.0,nicolás.vargas@gmail.com,3001010283,"Calle 90 # 10-78, Armenia",
+C0015,Carlos Rodríguez,1000242494.0,carlos.rodríguez@gmail.com,3001011074,"Calle 21 # 60-49, Medellín",
+C0016,Nicolás Vargas,1000259815.0,nicolás.vargas@gmail.com,3001011865,"Calle 88 # 42-99, Manizales",
+C0017,Laura Martínez,1000277136.0,laura.martínez@gmail.com,3001012656,"Calle 41 # 52-35, Manizales",2025-03-22
+C0018,Laura Martínez,1000294457.0,laura.martínez@gmail.com,3001013447,"Calle 28 # 64-51, Armenia",
+C0019,Valentina Ríos,1000311778.0,,3001014238,"Calle 34 # 18-32, Armenia",
+C0020,Sebastián Torres,1000329099.0,sebastián.torres@gmail.com,3001015029,"Calle 75 # 55-75, Cali",
+C0021,Sofía Ceballos,1000346420.0,sofía.ceballos@gmail.com,573001015820,"Calle 18 # 66-64, Manizales",2025-04-11
+C0022,Juan Pérez,1000363741.0,juan.pérez@gmail.com,3001016611,"Calle 20 # 21-88, Cali",
+C0023,Camila Ramírez,1000381062.0,,3001017402,"Calle 50 # 49-77, Cali",
+C0024,Sebastián Torres,1000398383.0,sebastián.torres@gmail.com,3001018193,"Calle 71 # 2-88, Armenia",
+C0025,María Gómez,1000415704.0,maría.gómez@gmail.com,3001018984,"Calle 83 # 44-15, Medellín",2025-05-01
+C0026,Daniel Bermúdez,1000433025.0,daniel.bermúdez@gmail.com,3001019775,"Calle 59 # 1-93, Armenia",
+C0027,Andrés López,1000450346.0,andrés.lópez@gmail.com,3001020566,"Calle 65 # 14-81, Medellín",
+C0028,Nicolás Vargas,1000467667.0,,3001021357,"Calle 20 # 48-98, Bogotá",
+C0029,Sebastián Torres,1000484988.0,sebastián.torres@gmail.com,3001022148,"Calle 77 # 42-63, Manizales",2025-05-21
+C0030,María Gómez,1000502309.0,maría.gómez@gmail.com,3001022939,"Calle 40 # 31-8, Bogotá",
+C0031,Camila Ramírez,1000519630.0,camila.ramírez@gmail.com,3001023730,"Calle 11 # 63-9, Pereira",
+C0032,Carlos Rodríguez,1000536951.0,carlos.rodríguez@gmail.com,3001024521,"Calle 85 # 61-71, Bogotá",
+C0033,Andrés López,1000554272.0,andrés.lópez@gmail.com,031025312,"Calle 28 # 70-97, Armenia",2025-06-10
+C0034,Ana María Díaz,1000571593.0,,3001026103,"Calle 40 # 52-86, Armenia",
+C0035,Sofía Ceballos,1000588914.0,sofía.ceballos@gmail.com,031026894,"Calle 67 # 58-16, Bogotá",
+C0036,Laura Martínez,1000606235.0,laura.martínez@gmail.com,3001027685,"Calle 44 # 3-76, Pereira",
+C0037,Laura Martínez,1000623556.0,,3001028476,"Calle 1 # 10-91, Armenia",2025-06-30
+C0038,Juan Pérez,1000640877.0,juan.pérez@gmail.com,3001029267,"Calle 9 # 5-43, Manizales",
+C0039,Sebastián Torres,1000658198.0,sebastián.torres@gmail.com,3001030058,"Calle 36 # 63-28, Pereira",
+C0040,C@rlos Rodríguez,1000675519.0,carlos.rodríguez@gmail.com,031030849,"Calle 32 # 61-53, Bogotá",
+C0041,María Gómez,1000692840.0,maría.gómez@gmail.com,3001031640,"Calle 85 # 56-46, Cali",2025-07-20
+C0042,Daniel Bermúdez,1000710161.0,daniel.bermúdez@gmail.com,031032431,"Calle 7 # 13-8, Cali",
+C0043,Ana María Díaz,1000727482.0,ana.maría.díaz@gmail.com,3001033222,"Calle 14 # 32-25, Bogotá",
+C0044,Sebastián Torres,1000744803.0,sebastián.torres@gmail.com,031034013,"Calle 18 # 55-24, Medellín",
+C0045,Valentina Ríos,1000762124.0,,3001034804,"Calle 10 # 57-71, Manizales",2025-08-09
+C0046,Juan Pérez,1000779445.0,,3001035595,"Calle 12 # 31-22, Cali",
+C0047,Valentina Ríos,1000796766.0,valentina.ríos@gmail.com,031036386,"Calle 28 # 52-8, Bogotá",
+C0048,Daniel Bermúdez,1000814087.0,daniel.bermúdez@gmail.com,3001037177,"Calle 50 # 34-59, Medellín",
+C0049,Daniel Bermúdez,1000831408.0,daniel.bermúdez@gmail.com,031037968,"Calle 20 # 25-38, Bogotá",2025-08-29
+C0050,Juan Pérez,1000848729.0,juan.pérez@gmail.com,3001038759,"Calle 41 # 8-7, Pereira",
+C0051,Valentina Ríos,1000866050.0,valentina.ríos@gmail.com,573001039550,"Calle 8 # 66-11, Bogotá",
+C0052,María Gómez,1000883371.0,maría.gómez@gmail.com,3001040341,"Calle 87 # 31-52, Manizales",
+C0053,C@mila Ramírez,1000900692.0,camila.ramírez@gmail.com,3001041132,"Calle 75 # 77-6, Pereira",2025-09-18
+C0054,María Gómez,1000918013.0,maría.gómez@gmail.com,031041923,"Calle 85 # 75-73, Pereira",
+C0055,Sofía Ceballos,1000935334.0,,3001042714,"Calle 27 # 41-31, Medellín",
+C0056,Daniel Bermúdez,1000952655.0,,3001043505,"Calle 86 # 39-59, Medellín",
+C0057,María Gómez,1000969976.0,maría.gómez@gmail.com,3001044296,"Calle 59 # 80-73, Manizales",2025-10-08
+C0058,María Gómez,1000987297.0,maría.gómez@gmail.com,3001045087,"Calle 65 # 34-17, Medellín",
+C0059,María Gómez,1001004618.0,maría.gómez@gmail.com,3001045878,"Calle 48 # 37-21, Cali",
+C0060,Sebastián Torres,1001021939.0,sebastián.torres@gmail.com,3001046669,"Calle 79 # 68-2, Armenia",
