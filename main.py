@@ -2,11 +2,11 @@ import subprocess
 import sys
 
 procesos = [
-    "Src/Scripts/limpiar_datos.py",
-    "Src/Scripts/separar_limpios.py",
-    "Src/Scripts/limpiar_datos_2.py",
-    "Src/Scripts/limpiar_tablas.py",
-    "Src/Scripts/crear_base_datos.py"
+    "Scr/Scripts/limpiar_datos.py",
+    "Scr/Scripts/separar_limpios.py",
+    "Scr/Scripts/limpiar_datos_2.py",
+    "Scr/Scripts/limpiar_tablas.py",
+    "Scr/Scripts/crear_base_datos.py"
 ]
 
 print()
