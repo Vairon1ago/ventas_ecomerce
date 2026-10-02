@@ -3,6 +3,7 @@ import sqlite3
 import os
 
 carpeta = "Scr/Archivos_limpios"
+
 base_datos = "Scr/Base_de_datos/ecommerce.db"
 
 os.makedirs("Scr/Base_de_datos", exist_ok=True)
